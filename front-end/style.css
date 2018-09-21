@@ -298,8 +298,29 @@ height: 690px;
     height: 460px;
     margin-left: 90px;
 }
-.sixth-content-block-2>p>a{
+.sixth-content-block-2>h2{
+    text-transform: uppercase;
+}
+.sixth-content-block-2>p{
+    font-size: 14px;
+    margin: 40px 0;
+    opacity: 0.5;
+}
+.third-navigate>a{
     text-decoration: none;
+    font-size: 20px;
     color: #858585;
     font-style:italic;
+}
+.block-2-content{
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+    height: 216px;
+}
+.block-2-content>.mark-waugh-block{
+    height: 214px;
+    width: 200px;
+    margin: 70px 0;
+    background-color: #f5f0dd;
 }
